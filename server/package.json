@@ -1,0 +1,31 @@
+{
+  "name": "e-borrow-server",
+  "version": "1.0.0",
+  "description": "NodeJS VueJS E-borrow Server (Backend).",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phonnaphat Homruen",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^13.7.0",
+    "jsonwebtoken": "^8.4.0",
+    "multer": "^1.4.2",
+    "mysql2": "^2.1.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "save": "^2.4.0",
+    "sequelize": "^5.22.4",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master",
+    "vue-ckeditor2": "^2.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
