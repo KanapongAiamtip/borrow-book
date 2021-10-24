@@ -193,7 +193,7 @@ export default {
   methods: {
     async createBorrow() {
       try {
-        alert("คุณทำรายการยืมอุปกรณ์สำเร็จเรียบร้อยแล้ว");
+        alert("You have completed the book borrowing list.");
         await BorrowsService.post(this.borrow);
         this.$router.push({
           name: "borrow-status",

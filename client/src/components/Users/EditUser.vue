@@ -135,7 +135,7 @@ export default {
     },
     async editUser() {
       try {
-        alert("เปลี่ยนแปลงข้อมูลเรียบร้อยแล้ว");
+        alert("The information has been changed.");
         await UsersService.put(this.user);
         this.$router.push({
           name: "users",

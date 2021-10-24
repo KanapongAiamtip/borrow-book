@@ -400,7 +400,7 @@ export default {
     },
     async clientRegister() {
       try {
-        alert("สมัครสมาชิกเรียบร้อยแล้ว");
+        alert("Successfully subscribed");
         await ClientService.post(this.client);
         this.$router.push({
           name: "front",
