@@ -194,7 +194,7 @@ export default {
     },
     async deleteBorrow(borrow) {
       try {
-        let result = confirm("คุณต้องการยกเลิกการยืมอุปกรณ์หรือไม่?");
+        let result = confirm("Do you want to cancel your book borrowing?");
         if (result) {
           await BorrowsService.delete(borrow);
           this.refreshData();
