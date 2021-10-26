@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
     "scrollmonitor": "^1.2.4",
