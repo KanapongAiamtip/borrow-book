@@ -12,9 +12,7 @@
         />
         <span class="font1">&nbsp;Library Borrow Booking System</span>
         <div class="badge text-wrap" style="width: 7rem; background: #ff3333">
-          <span class="font3" style="font-size: 13px; color: #ffffff"
-            ><i class="fas fa-user-cog"></i> Backend</span
-          >
+          
         </div>
       </router-link>
       <button
