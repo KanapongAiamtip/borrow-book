@@ -5,10 +5,7 @@
       <h3><i class="fas fa-tasks"></i> Status</h3>
     </div>
     <div class="container-fluid">
-      <div class="categories">
-        <div>
-          <p class="font2">Total: {{ borrows.length }} list</p>
-        </div>
+      <div class="categories">        
         <div class="blog-wrapper table-responsive">
           <span class="font2">
             <table class="table table-bordered" style="width: 100%">
