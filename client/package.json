@@ -1,7 +1,7 @@
 {
-  "name": "e-borrow-client",
+  "name": "brrow-booking",
   "version": "1.0.0",
-  "description": "nodejs vuejs e-borrow client",
+  "description": "nodejs vuejs Borrow-booking",
   "author": "Wipada Wicharaphotn",
   "private": true,
   "scripts": {
