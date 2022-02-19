@@ -3,7 +3,7 @@
 ## Tech stack
 In website, we use
 - [Vuejs](https://vuejs.org/) to manage our frontend application.
-- [Sqllite](https://www.sqlite.org/) to manage our backend database.
+- [Sqlite](https://www.sqlite.org/) to manage our backend database.
 
 Our main language of development is [Vue js](https://vuejs.org)
 
