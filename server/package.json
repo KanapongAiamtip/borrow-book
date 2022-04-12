@@ -1,12 +1,12 @@
 {
-  "name": "e-borrow-server",
+  "name": "e-brorow-server",
   "version": "1.0.0",
-  "description": "NodeJS VueJS E-borrow Server (Backend).",
+  "description": "NodeJS VueJS E-brorow Server (Backend).",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Phonnaphat Homruen",
+  "author": "KanapongAiamtip",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
