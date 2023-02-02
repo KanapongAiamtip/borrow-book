@@ -16,7 +16,7 @@
     "scrollmonitor": "^1.2.4",
     "vue": "^2.5.2",
     "vue-ckeditor2": "^2.1.5",
-    "vue-resource": "^1.5.1",
+    "vue-resource": "^1.5.3",
     "vue-router": "^3.0.1",
     "vue-sorted-table": "^1.2.0",
     "vuex": "^3.0.1",
